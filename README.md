@@ -1,20 +1,20 @@
-Amigo Secreto
+# Amigo Secreto
 
 Um aplicativo simples de sorteio de Amigo Secreto, onde os participantes podem ser adicionados.
 
-Funcionalidades
+## Funcionalidades
 
 -Adicionar amigos a lista
 -Sortear um amigo de forma aleatória
 -Exibir o resultado do sorteio
 
-Tecnologias Utilizadas
+## Tecnologias Utilizadas
 
--HTML5: Estrutura da página
--CSS : Estilizaçãp e design responsivo
--JavaScript: Manipulação da lógica do sorteio e interação
+-**HTML5**: Estrutura da página
+-**CSS** : Estilizaçãp e design responsivo
+-**JavaScript**: Manipulação da lógica do sorteio e interação
 
-Como Usar
+## Como Usar
 
 1.Clone o repositório ou baixe os arquivos.
 2.Abra o arquivo 'Index.html' no navegador.
