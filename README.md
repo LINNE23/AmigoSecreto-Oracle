@@ -21,3 +21,7 @@ Um aplicativo simples de sorteio de Amigo Secreto, onde os participantes podem s
 3.Digite o nome de cada participante e clique em 'Adicionar'.
 4.Clique no botão 'Sortear amigo' para realizar o sorteio.
 5.O nome sorteado será exibido na tela.
+
+## 📚 Créditos
+
+Este projeto foi desenvolvido como parte do curso **"Praticando Lógica de Programação: Challenge Amigo Secreto"** do programa **Oracle Next Education + Alura**, com o objetivo de aprimorar conhecimentos em lógica de programação e manipulação com JavaScript. 
